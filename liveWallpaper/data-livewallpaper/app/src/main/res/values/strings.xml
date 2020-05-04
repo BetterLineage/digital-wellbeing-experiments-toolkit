@@ -15,8 +15,8 @@
 -->
 
 <resources>
-    <string name="app_name">Data Live Wallpaper</string>
-    <string name="wallpaper_description">Data Live Wallpaper</string>
+    <string name="app_name">Unlock Clock</string>
+    <string name="wallpaper_description">Unlock Clock</string>
     <string name="unlocks_today">UNLOCKS TODAY</string>
     <string name="above_average">ABOVE AVERAGE</string>
     <string name="below_average">BELOW AVERAGE</string>

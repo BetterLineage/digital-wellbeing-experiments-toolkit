@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package com.digitalwellbeingexperiments.toolkit.datalivewallpaper
+package com.betterlineage.unlockclock
 
 
 const val DAY_END_MS_PREFERENCE = "DAY_END_MS_PREFERENCE"

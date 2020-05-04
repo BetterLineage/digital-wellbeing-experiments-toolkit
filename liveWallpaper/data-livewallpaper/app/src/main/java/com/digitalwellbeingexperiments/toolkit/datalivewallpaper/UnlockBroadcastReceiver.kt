@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package com.digitalwellbeingexperiments.toolkit.datalivewallpaper
+package com.betterlineage.unlockclock
 
 import android.content.BroadcastReceiver
 import android.content.Context

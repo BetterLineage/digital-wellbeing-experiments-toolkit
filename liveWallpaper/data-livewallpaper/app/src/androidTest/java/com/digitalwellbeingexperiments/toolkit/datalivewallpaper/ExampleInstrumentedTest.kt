@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package com.digitalwellbeingexperiments.toolkit.datalivewallpaper
+package com.betterlineage.unlockclock
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
@@ -34,7 +34,7 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals(
-            "com.digitalwellbeingexperiments.toolkit.datalivewallpaper",
+            "com.betterlineage.unlockclock",
             appContext.packageName
         )
     }
